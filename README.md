@@ -1,7 +1,7 @@
 <div align="center"><h1><a href="https://oliviagallucci.com">B Miller</a></h1></div>
 <div align="center"><p><i>Information Security</i></h1></div>
 
-<div align="center"><p><i>Undergraduate student and researcher at the University of Kansas.</i></h1></div>
+<div align="center"><p><i>M.S.c Student and researcher.</i></h1></div>
 
 <!--
 ## Free(dom) Software 
